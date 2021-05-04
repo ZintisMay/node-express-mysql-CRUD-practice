@@ -1,0 +1,27 @@
+{
+  "name": "node-express-mysql-CRUD-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZintisMay/node-express-mysql-CRUD-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZintisMay/node-express-mysql-CRUD-practice/issues"
+  },
+  "homepage": "https://github.com/ZintisMay/node-express-mysql-CRUD-practice#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "sequelize": "^6.6.2"
+  }
+}
